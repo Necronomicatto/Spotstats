@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>art.librum</groupId>
-	<artifactId>spotstats</artifactId>
+	<artifactId>servoaudio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spotstats</name>
+	<name>servoaudio</name>
 	<description/>
 	<url/>
 	<licenses>
